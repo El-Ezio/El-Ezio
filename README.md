@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">.</p>
+
 
 ###
 
-<h2 align="left">About me: 
+<h2 align="left">About me: <br>
   -🎓 I’m passionate about cybersecurity, ethical hacking, and automation.<br>
 - 💻 I enjoy solving challenges on platforms like TryHackMe and HackTheBox.<br>
 - 🧠 Always learning — from low-level C++ to high-level Python scripting.<br>
@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Peneteration Testing & Exploit Development <br>🎯 Goals: Work as a penetration tester or part of a threat hunting team.<br>🎲 Fun fact: The first computer bug was a real bug — a moth trapped in a Harvard Mark II computer in 1947!</p>
+<p align="left">📚 I'm currently learning Peneteration Testing & Exploit Development <br>🎯 Goals: Work as a penetration tester or part of a threat hunting team.<br>🎲 Fun fact: The first computer bug was a real bug, a moth trapped in a Harvard Mark II computer in 1947!</p>
 
 ###
 
