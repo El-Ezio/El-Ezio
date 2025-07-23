@@ -9,7 +9,7 @@
 <h2 align="left">About me: <br>
   -🎓 I’m passionate about cybersecurity, ethical hacking, and automation.<br>
 - 💻 I enjoy solving challenges on platforms like TryHackMe and HackTheBox.<br>
-- 🧠 Always learning — from low-level C++ to high-level Python scripting.<br>
+- 🧠 Always learning,from low-level C++ to high-level Python scripting.<br>
 - 🌍 Currently based in Europe and open to remote collaboration or roles.<br>
 - ☕ Coffee fuels my troubleshooting and maybe a few late-night CTFs!</h2>
 
