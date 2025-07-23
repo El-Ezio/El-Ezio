@@ -11,11 +11,11 @@
 - 💻 I enjoy solving challenges on platforms like TryHackMe and HackTheBox.<br>
 - 🧠 Always learning — from low-level C++ to high-level Python scripting.<br>
 - 🌍 Currently based in Europe and open to remote collaboration or roles.<br>
-- ☕ Coffee fuels my troubleshooting — and maybe a few late-night CTFs!</h2>
+- ☕ Coffee fuels my troubleshooting and maybe a few late-night CTFs!</h2>
 
 ###
 
-<p align="left">📚 I'm currently learning Peneteration Testing & Exploit Development <br>🎯 Goals: Unknown<br>🎲 Fun fact: The first computer bug was a real bug — a moth trapped in a Harvard Mark II computer in 1947!</p>
+<p align="left">📚 I'm currently learning Peneteration Testing & Exploit Development <br>🎯 Goals: Work as a penetration tester or part of a threat hunting team.<br>🎲 Fun fact: The first computer bug was a real bug — a moth trapped in a Harvard Mark II computer in 1947!</p>
 
 ###
 
