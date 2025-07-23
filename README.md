@@ -6,11 +6,15 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me:  - 🎓 I’m passionate about cybersecurity, ethical hacking, and automation.
+- 💻 I enjoy solving challenges on platforms like TryHackMe and HackTheBox.
+- 🧠 Always learning — from low-level C++ to high-level Python scripting.
+- 🌍 Currently based in Europe and open to remote collaboration or roles.
+- ☕ Coffee fuels my troubleshooting — and maybe a few late-night CTFs!</h2>
 
 ###
 
-<p align="left">📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚 I'm currently learning Peneteration Testing & Exploit Development <br>🎯 Goals: Unknown<br>🎲 Fun fact: The first computer bug was a real bug — a moth trapped in a Harvard Mark II computer in 1947!</p>
 
 ###
 
@@ -19,21 +23,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+
 </div>
 
 ###
