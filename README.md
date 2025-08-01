@@ -18,12 +18,12 @@
 <p align="left">📚 I'm currently learning Peneteration Testing & Exploit Development <br>🎯 Goals: Work as a penetration tester or part of a threat hunting team.<br>🎲 Fun fact: The first computer bug was a real bug, a moth trapped in a Harvard Mark II computer in 1947!</p>
 
 ###
-
-<h2 align="left">I code with</h2>
-
 Here I'll be sharing short and useful explanations of the concepts and tools I'm learning each day. The goal is to keep it beginner friendly and practical.
 
 Let’s have some fun while learning! 💻⚡
+
+<h2 align="left">I code with</h2>
+
 
 ###
 
