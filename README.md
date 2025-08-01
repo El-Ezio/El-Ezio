@@ -21,6 +21,10 @@
 
 <h2 align="left">I code with</h2>
 
+Here I'll be sharing short and useful explanations of the concepts and tools I'm learning each day. The goal is to keep it beginner friendly and practical.
+
+Let’s have some fun while learning! 💻⚡
+
 ###
 
 <div align="left">
